@@ -1,0 +1,40 @@
+git add run_11
+git commit -m 'commiting auto2'
+git push
+git add run_12
+git commit -m 'commiting auto2' 
+git push
+git add run_13
+git commit -m 'commiting auto2' 
+git push
+
+git add run_14
+git commit -m 'commiting auto2' 
+git push
+
+git add run_15
+git commit -m 'commiting auto2' 
+git push
+
+git add run_16
+git commit -m 'commiting auto2' 
+git push
+
+git add run_17
+git commit -m 'commiting auto2' 
+git push
+
+git add run_18
+git commit -m 'commiting auto2' 
+git push
+
+git add run_19
+git commit -m 'commiting auto2' 
+git push
+
+git add run_20
+git commit -m 'commiting auto2' 
+git push
+
+
+
